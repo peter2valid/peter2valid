@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Scaling Ark Community into a full nonprofit platform Setting up automated donation & reporting dashboards with n8n + Google Sheets Expanding my personal brand “Peter Era” into a global tech content brand**
 
-- 👨‍💻 All of my projects are available at [www.peter2valid.tech](www.peter2valid.tech)
+- 👨‍💻 All of my projects are available at [www.peter2valid.site](www.peter2valid.site)
 
 - 💬 Ask me about **React ⚛️ • Python 🐍 • JavaScript ⚡ • Firebase • n8n Automations • API Integrations • AI Workflows • Branding & Social Media Growth**
 
