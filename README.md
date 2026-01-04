@@ -32,8 +32,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/peter2valid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="peter2valid" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter2valid&show_icons=true&locale=en&layout=compact" alt="peter2valid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter2valid&show_icons=true&locale=en" alt="peter2valid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peter2valid&" alt="peter2valid" /></p>
