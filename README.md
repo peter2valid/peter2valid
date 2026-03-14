@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Advanced React, Next.js, and Tailwind AI Agent Builders, OpenAI Automations, LangFlow RAG apps M-Pesa API integrations & backend scaling Electronics and Computer Architecture (Mama Ngina University coursework)**
 
 - 👯 I’m looking to collaborate on **Open-source AI automation projects (n8n, Langflow, Ollama) African startups building social impact & fintech solutions Frontend + backend integration for React, PythonAnywhere, Firebase, Supabase**
-
+;
 - 🤝 I’m looking for help with **Scaling Ark Community into a full nonprofit platform Setting up automated donation & reporting dashboards with n8n + Google Sheets Expanding my personal brand “Peter Era” into a global tech content brand**
 
 - 👨‍💻 All of my projects are available at [www.peternjoroge.site](www.peternjoroge.site)
