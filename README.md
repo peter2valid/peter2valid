@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter2valid&label=Profile%20views&color=0e75b6&style=flat" alt="peter2valid" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peter2valid" alt="" /></a> </p>
-.
+
 - 🔭 I’m currently working on **Ark Community — Uplifting Kenya Through Tech & Kindness**
 
 - 🌱 I’m currently learning **Advanced React, Next.js, and Tailwind AI Agent Builders, OpenAI Automations, LangFlow RAG apps M-Pesa API integrations & backend scaling Electronics and Computer Architecture (Mama Ngina University coursework)**
